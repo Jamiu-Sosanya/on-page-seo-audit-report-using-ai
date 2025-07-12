@@ -37,10 +37,13 @@ Marketing Teams & Agencies: Instantly audit client pages and generate value.
 E-commerce Brands: Improve rankings for product and category pages.
 Bloggers & Content Creators: Ensure your content meets modern SEO standards.
 
-# 🔒 Nothis is Required
+# 🔒 Nothing is Required
 No Risk. 
 No Sign-Up.
 No credit card required
 No user tracking or data stored
 
 # 100% free for everyone
+
+# Live Demo:
+https://jamiu-sosanya.github.io/on-page-seo-audit-report-using-ai/
